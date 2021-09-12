@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Tony.
+My name is Tony Wu, I am current learning OPS445NAA at Seneca college.
 <!--
 **twu22/twu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
